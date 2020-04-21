@@ -1,6 +1,6 @@
 # Results
 
-The result files of our paper can be obtained from the Google Drive: [Link to google drive](https://drive.google.com/open?id=10cpDXLlOWWzWjOA2Ahybb2k44mTgpjbe. )
+The result files of our paper can be obtained from the Google Drive: [Link to google drive](https://drive.google.com/open?id=10cpDXLlOWWzWjOA2Ahybb2k44mTgpjbe)
 
 After the experiments are done you will find the following files in the logs folder (each row will contain n space separated values, n being the number of agents):
 
